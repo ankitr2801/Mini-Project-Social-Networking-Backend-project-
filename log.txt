@@ -1,0 +1,10 @@
+
+ Fri Feb 09 2024 10:35:44 GMT+0530 (India Standard Time) - /api/user/register - {"name":"akhil","email":"ankitr280@gmail.com","password":"12345"}
+ Fri Feb 09 2024 10:35:51 GMT+0530 (India Standard Time) - /api/user/login - {"email":"ankitr280@gmail.com","password":"12345"}
+ Fri Feb 09 2024 10:36:23 GMT+0530 (India Standard Time) - /api/user/register - {"name":"akhil","email":"ankitr280@gmail.com","password":"12345"}
+ Fri Feb 09 2024 10:36:27 GMT+0530 (India Standard Time) - /api/user/login - {"email":"ankitr280@gmail.com","password":"12345"}
+ Fri Feb 09 2024 10:36:59 GMT+0530 (India Standard Time) - /api/post - {"caption":"This is a test post","imageUrl":"https://img.freepik.com/free-photo/lone-tree_181624-46361.jpg?size=626&ext=jpg","rating":5}
+ Fri Feb 09 2024 10:37:08 GMT+0530 (India Standard Time) - /api/post - {"caption":"This is a test post","imageUrl":"https://img.freepik.com/free-photo/lone-tree_181624-46361.jpg?size=626&ext=jpg","rating":5}
+ Fri Feb 09 2024 10:37:11 GMT+0530 (India Standard Time) - /api/post - {"caption":"This is a test post","imageUrl":"https://img.freepik.com/free-photo/lone-tree_181624-46361.jpg?size=626&ext=jpg","rating":5}
+ Fri Feb 09 2024 10:37:19 GMT+0530 (India Standard Time) - /api/post - {}
+ Fri Feb 09 2024 10:37:30 GMT+0530 (India Standard Time) - /api/post - {}
